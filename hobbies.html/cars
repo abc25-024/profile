@@ -8,8 +8,8 @@
  <body>
 <div id="divcontainer">
     <h1>My Hobbies</h1>
-  <h2>CAR BRANDS</h2?
-  <details
+  <h2>CAR BRANDS</h2>
+  <details>
    <summary><Mercedes Benz</summary>
    <ul>
       <li>Mercedes Benz
@@ -24,4 +24,5 @@
   </details>
   </div>
   </body>
+</html>
   
